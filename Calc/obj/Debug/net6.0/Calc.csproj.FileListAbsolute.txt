@@ -1,0 +1,15 @@
+C:\UnityProjects\Calc\obj\Debug\net6.0\Calc.csproj.AssemblyReference.cache
+C:\UnityProjects\Calc\obj\Debug\net6.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnityProjects\Calc\obj\Debug\net6.0\Calc.AssemblyInfoInputs.cache
+C:\UnityProjects\Calc\obj\Debug\net6.0\Calc.AssemblyInfo.cs
+C:\UnityProjects\Calc\obj\Debug\net6.0\Calc.csproj.CoreCompileInputs.cache
+C:\UnityProjects\Calc\bin\Debug\net6.0\Calc.exe
+C:\UnityProjects\Calc\bin\Debug\net6.0\Calc.deps.json
+C:\UnityProjects\Calc\bin\Debug\net6.0\Calc.runtimeconfig.json
+C:\UnityProjects\Calc\bin\Debug\net6.0\Calc.dll
+C:\UnityProjects\Calc\bin\Debug\net6.0\Calc.pdb
+C:\UnityProjects\Calc\obj\Debug\net6.0\Calc.dll
+C:\UnityProjects\Calc\obj\Debug\net6.0\refint\Calc.dll
+C:\UnityProjects\Calc\obj\Debug\net6.0\Calc.pdb
+C:\UnityProjects\Calc\obj\Debug\net6.0\Calc.genruntimeconfig.cache
+C:\UnityProjects\Calc\obj\Debug\net6.0\ref\Calc.dll
